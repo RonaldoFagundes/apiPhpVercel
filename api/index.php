@@ -2,4 +2,5 @@
   
  header("Access-Control-Allow-Origin: *");
 
-    echo" api working now";
+   echo json_encode("api vercel working");
+
